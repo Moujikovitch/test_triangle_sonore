@@ -1,0 +1,16 @@
+#triangle{
+	width:1px;
+	height:1px;
+	border:1px solid #069;
+	border-color:transparent transparent #069 transparent;
+	border-width:100px;
+}
+#triangle:hover{
+	background-color:black;
+}
+#lepng:hover{
+	opacity:0.5;
+}
+path:hover{
+	opacity:0.5;
+}
